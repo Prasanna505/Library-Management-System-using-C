@@ -1,4 +1,5 @@
-# Library-Management-System-using-C : This is implementation of e-library system using C-language data structures and algorithms. This includes 3 sections:
+# Library-Management-System-using-C : 
+This is implementation of e-library system using C-language data structures and algorithms. This includes 3 sections:
 -> Student section
 -> Book section
 -> Issue section
