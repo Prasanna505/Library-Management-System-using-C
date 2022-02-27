@@ -14,5 +14,5 @@ The data structures used here are:
   <li>Structures.</li>
 </ul>
 Algorithms used are sorting algorithms of BST.<br>
-HOW TO RUN THE PROJECT:<br>
+HOW TO RUN THE PROJECT:
 just run LibraryManagementMain.c in any c-supporting IDE like code-blocks/VS Code.
