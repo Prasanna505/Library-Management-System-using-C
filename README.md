@@ -1,12 +1,12 @@
 # Library-Management-System-using-C : 
 This is implementation of e-library system using C-language data structures and algorithms. This includes 3 sections:
-<pre>
-Student section
-Book section
-Issue section.
+<ul>
+  <li>Student section</li>
+  <li>Book section</li>
+  <li>Issue section.</li>
+</ul>  
 So in student section all functionalities related to student like student details entering, List of all students who registered, etc and similarily book section contains book related details and finally issue section for borrowing or giving books back to library.
 The data structures used here are:
-<pre>
 Binary search tree
 Linked list
 Hashing
