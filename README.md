@@ -13,6 +13,6 @@ The data structures used here are:
   <li>Hashing</li>
   <li>Structures.</li>
 </ul>
-Algorithms used are sorting algorithms of BST.
-HOW TO RUN THE PROJECT:
+Algorithms used are sorting algorithms of BST.<br>
+HOW TO RUN THE PROJECT:<br>
 just run LibraryManagementMain.c in any c-supporting IDE like code-blocks/VS Code.
